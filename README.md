@@ -44,5 +44,3 @@ $ git merge origin/master
 ```
 $ git pull origin master
 ```
-
-Tal vez falten más comandos
