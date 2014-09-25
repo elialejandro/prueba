@@ -19,7 +19,6 @@ $ git clean -d -f
 ```
 
 Revisar archivos que se van a eliminar
-
 ```
 $ git clean -d -n
 ```
@@ -45,3 +44,5 @@ $ git merge origin/master
 ```
 $ git pull origin master
 ```
+
+Tal vez falten más comandos
