@@ -23,3 +23,25 @@ Revisar archivos que se van a eliminar
 ```
 $ git clean -d -n
 ```
+
+## Descargar cambios del Servidor
+```
+$ git fetch origin master
+```
+
+## Ver la diferencia entre 2 ramas
+```
+$ git diff master origin/master
+```
+
+## Mezclar dos ramas
+Siempre debe estar el puntero en la rama a donde se 
+van a agregar los cambios
+```
+$ git merge origin/master
+```
+
+## Descargar cambios del servidor y mezclar
+```
+$ git pull origin master
+```
